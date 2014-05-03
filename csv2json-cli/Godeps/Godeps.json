@@ -1,0 +1,10 @@
+{
+	"ImportPath": "github.com/fencedin/csv2json-cli",
+	"GoVersion": "go1.2.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/fencedin/csv2json",
+			"Rev": "7643bdcfcc8d2a666755f39ac3cef79774742021"
+		}
+	]
+}
